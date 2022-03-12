@@ -590,7 +590,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
-#about {
+.about {
   background: url("https://cdn.jsdelivr.net/gh/KcMelek/tulds@master/assets/img/11.jpg");
   background-size: cover;
   overflow: hidden;
