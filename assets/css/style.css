@@ -2,6 +2,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@font-face {
+	font-family: 'Sofia Pro';
+	src:url('https://cdn.jsdelivr.net/gh/KcMelek/tulds@master/assets/Fonts/sofiapro-light.otf');
 body {
   background: rgb(6, 2, 26);
   color: #2f3138;
