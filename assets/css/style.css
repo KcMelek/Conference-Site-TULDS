@@ -11,7 +11,7 @@
 body {
   background: rgb(6, 2, 26);
   color: #2f3138;
-  font-family: Sofia Pro, sans-serif;
+  font-family: 'Sofia Pro', sans-serif;
 }
 @import url(//db.onlinewebfonts.com/c/9e00143409affcb46a1ae58634aa64be?family=Sofia+Pro);
 @import url(//cdn.jsdelivr.net/gh/velvetyne/BluuNext@master/Fonts/BluuNext-Bold.otf);
@@ -119,7 +119,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
   font-weight: 500;
   color: #ffffff;
-  font-family: Sofia Pro,sans-serif;
+  font-family: 'Sofia Pro',sans-serif;
 
 }
 
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
 #header #logo h1 {
   font-size: 36px;
   margin: 0;
-  font-family: Bluu Next, sans-serif;
+  font-family: 'Bluu Next', sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 # Buy Tickets
 --------------------------------------------------------------*/
 .buy-tickets {
-  font-family: Bluu Next, sans-serif;
+  font-family: 'Bluu Next', sans-serif;
   color: #fff;
   background: #a85;
   padding: 10px 25px;
@@ -460,7 +460,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero h1 {
   color: #fff;
-  font-family: Bluu Next, sans-serif;
+  font-family: 'Bluu Next', sans-serif;
   font-size: 56px;
   font-weight: 600;
   text-transform: uppercase;
@@ -475,7 +475,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #hero p {
-  font-family: Bluu Next, sans-serif;
+  font-family: 'Bluu Next', sans-serif;
   color: #ebebeb;
   font-weight: 700;
   font-size: 20px;
@@ -965,7 +965,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
   color: #ffffff;
   font-size: 18px;
-  font-family: Sofia Pro,sans-serif;
+  font-family: 'Sofia Pro',sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -1086,7 +1086,7 @@ align-items: center;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: Bluu Next, sans-serif;
+  font-family: 'Bluu Next', sans-serif;
   font-weight: 700;
   color: #fff;
 }
@@ -1098,7 +1098,7 @@ align-items: center;
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: Bluu Next, sans-serif;
+  font-family: 'Bluu Next', sans-serif;
   color: #fff;
 }
 #footer .footer-top .social-links a {
