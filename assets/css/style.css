@@ -7,7 +7,10 @@ body {
   color: #2f3138;
   font-family: Sofia Pro, sans-serif;
 }
-
+@import url(//db.onlinewebfonts.com/c/9e00143409affcb46a1ae58634aa64be?family=Sofia+Pro);
+@import url(//cdn.jsdelivr.net/gh/velvetyne/BluuNext@master/Fonts/BluuNext-Bold.otf);
+@import url(//cdn.jsdelivr.net/gh/velvetyne/BluuNext@master/Fonts/BluuNext-Bolditalic.otf);
+@import url(//cdn.jsdelivr.net/gh/velvetyne/BluuNext@master/Fonts/BluuNext-Titling.otf);
 a {
   color: #a85;
   text-decoration: none;
